@@ -54,7 +54,7 @@ Sourcegraph 是一家基于开源和开放文化的初创企业，主要从事�
 
 不管是用户提交的功能缺陷、功能请求，还是团队内部提出的需求，最终都会根据当下产品的主要方向和各小组的工作量进行排级（Prioritization），从而确定由谁进行开发。
 
-目前为止，我们所有的仓库都托管在 GitHub 的公共托管平台上（https://github.com ），并且使用了大量的私有库用于存放基础设施和安全相关的配置、脚本和程序等等。
+目前为止，我们所有的仓库都托管在 GitHub 的公共托管平台上（ https://github.com ），并且使用了大量的私有库用于存放基础设施和安全相关的配置、脚本和程序等等。
 
 [sourcegraph/sourcegraph](https://github.com/sourcegraph/sourcegraph) 是我们的主要产品仓库，里面包含了开源版和企业版的全部代码，所有的代码提交最终都会以 GitHub 合并请求（Pull request）的形式进行审查、修改和合并。
 

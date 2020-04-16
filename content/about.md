@@ -1,0 +1,17 @@
+# About me
+
+欢迎来到无闻的小站！
+
+我是一名软件工程师，现任职于一家做代码搜索的初创企业 [Sourcegraph](https://sourcegraph.com)（全职在家远程）。
+
+90 后，编码强迫症晚期。
+
+2011 年起用 Visual Basic 6.0 进入了编程的世界，搞过易语言，写过 C#。2013 年本来想学 PHP 的，结果摔了一跤学了 Go，所以那本 PHP 兄弟连就成了垫屏幕的利器（2019 年搬家的时候捐给了波士顿当地的扶贫基金会，我想就算他们看不懂 PHP，拿来学习中文也是一本非常好的教材，附教学光盘）。
+
+没有什么远大的志向，只想做一个对国家和社会有贡献的有钱人。
+
+---
+
+<br/> 
+<div align="center">关注微信公众号 <b>无闻是个码痴</b>，带你走向催更的人生。
+<img src="https://github.com/unknwon/building-web-applications-in-go/raw/master/images/qrcode.jpg" alt="微信公众号"></div>
