@@ -95,11 +95,14 @@
     </div>
 
     <div class="post-comment">
-          {{ if ( .Params.showComments | default true ) }}
-                 {{ if ne .Site.DisqusShortname "" }}
-                     {{ template "_internal/disqus.html" . }}
-                 {{ end }}
-          {{ end }}
+        <script src="https://utteranc.es/client.js"
+            repo="unknwon/unknwon.cn"
+            issue-term="pathname"
+            label="utteranc"
+            theme="github-light"
+            crossorigin="anonymous"
+            async>
+        </script>
     </div>
 </article>
 {{- end }}
