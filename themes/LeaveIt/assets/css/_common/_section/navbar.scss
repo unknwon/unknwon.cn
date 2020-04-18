@@ -19,7 +19,7 @@
       font-weight: 900;
       color: $light-navbar-active-color;
 
-      .dark-theme &{
+      @media screen and (prefers-color-scheme: dark) {
         color: $dark-navbar-active-color;
       }
   }

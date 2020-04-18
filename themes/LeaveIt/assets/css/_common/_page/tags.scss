@@ -16,7 +16,7 @@
             color: $light-global-link-hover-color;
             transform: scale(1.1);
 
-            .dark-theme &{
+            @media screen and (prefers-color-scheme: dark) {
             	 color: $dark-global-link-hover-color;
             }
         }
@@ -24,7 +24,7 @@
         small {
             color: $light-font-secondary-color;
             
-            .dark-theme &{
+            @media screen and (prefers-color-scheme: dark) {
                  color: $dark-global-link-hover-color;
             }
         }
