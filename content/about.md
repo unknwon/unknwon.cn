@@ -14,4 +14,4 @@
 
 <br/> 
 <div align="center">关注微信公众号 <b>无闻是个码痴</b>，带你走向催更的人生。
-<img src="https://github.com/unknwon/building-web-applications-in-go/raw/master/images/qrcode.jpg" alt="微信公众号"></div>
+<img src="/img/wechat_qrcode.jpg" alt="微信公众号"></div>
