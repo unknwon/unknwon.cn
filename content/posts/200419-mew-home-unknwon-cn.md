@@ -3,7 +3,7 @@ title: 中文博客搬新家
 categories: ["杂记"]
 tags: ["caddy", "hugo", "utterances", "阿里云", "备案"]
 date: 2020-04-19
-lastmod: 2020-04-19
+lastmod: 2020-05-04
 ---
 
 从 2013 年开始就搞起了自己的中文博客，几经周折，从用小众的博客系统，到后来懒得托管直接丢在 GitHub 上把 Issue 当博客发，最终迁移到了现在的中国大陆境内站点。这里发个博客记录一下这次迁移相关的乱七八糟的故事。
@@ -127,3 +127,34 @@ async function handleRequest(request) {
 ## 后续
 
 经过一周断断续续地折腾，站点总算成型。后面还要搞一下自动从 GitHub 拉取更新，不然每次更新都要 SSH 到服务器 `git pull && hugo --destination=/root/apps/unknwon.cn/public` 显得很业余，也不好拿出来吹。
+
+---
+
+**2020-05-04 更新**：通过使用 [appleboy/ssh-action](https://github.com/appleboy/ssh-action)，成功地实现一推送到 `master` 分支就自动 SSH 到服务器进行部署。
+
+GitHub Action 的配置如下（[deploy.yml](https://github.com/unknwon/unknwon.cn/blob/master/.github/workflows/deploy.yml)）：
+
+```yml
+name: Deploy
+
+on:
+  push:
+    branches: [ master ]
+
+jobs:
+  hugo:
+    name: Hugo
+    runs-on: ubuntu-latest
+    steps:
+    - name: Compile content on the server
+      uses: appleboy/ssh-action@master
+      with:
+        host: ${{ secrets.HOST }}
+        username: ${{ secrets.USERNAME }}
+        password: ${{ secrets.PASSWORD }}
+        script_stop: true
+        script: |
+          cd apps/unknwon.cn
+          git pull
+          hugo --destination=./public
+```
