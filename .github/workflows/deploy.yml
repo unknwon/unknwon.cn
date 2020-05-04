@@ -15,5 +15,7 @@ jobs:
         host: ${{ secrets.HOST }}
         username: ${{ secrets.USERNAME }}
         password: ${{ secrets.PASSWORD }}
-        port: ${{ secrets.PORT }}
-        script: whoami
+        script_stop: true
+        script: |
+          cd apps/unknwon.cn
+          hugo --destination=./public
