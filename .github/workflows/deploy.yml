@@ -1,6 +1,8 @@
 name: Deploy
 
-on: push
+on:
+  push:
+    branches: [ master ]
 
 jobs:
   hugo:
@@ -14,4 +16,6 @@ jobs:
         username: ${{ secrets.USERNAME }}
         password: ${{ secrets.PASSWORD }}
         script_stop: true
-        script: whoami
+        script: |
+          cd apps/unknwon.cn
+          hugo --destination=./public
