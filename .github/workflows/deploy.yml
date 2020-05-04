@@ -5,7 +5,8 @@ on:
     branches: [ master ]
 
 jobs:
-  deploy:
+  hugo:
+    name: Hugo
     runs-on: ubuntu-latest
     steps:
     - name: Compile content on the server
