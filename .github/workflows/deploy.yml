@@ -16,6 +16,4 @@ jobs:
         username: ${{ secrets.USERNAME }}
         password: ${{ secrets.PASSWORD }}
         script_stop: true
-        script: |
-          cd apps/unknwon.cn
-          hugo --destination=./public
+        script: whoami
