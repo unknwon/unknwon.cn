@@ -1,8 +1,6 @@
 name: Deploy
 
-on:
-  push:
-    branches: [ master ]
+on: push
 
 jobs:
   hugo:
@@ -15,5 +13,5 @@ jobs:
         host: ${{ secrets.HOST }}
         username: ${{ secrets.USERNAME }}
         password: ${{ secrets.PASSWORD }}
-        port: ${{ secrets.PORT }}
+        script_stop: true
         script: whoami
