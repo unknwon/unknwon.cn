@@ -50,6 +50,7 @@ jobs:
 $ docker run -d \
     --add-host github.com:140.82.113.4 \
     --add-host api.github.com:140.82.113.6 \
+    --add-host github.global.ssl.fastly.net:151.101.1.194 \
     --publish 7080:7080 \
     --volume ~/.sourcegraph/config:/etc/sourcegraph \
     --volume ~/.sourcegraph/data:/var/opt/sourcegraph \
