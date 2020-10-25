@@ -2,8 +2,8 @@
 title: GitLab 课程《如何管理远程团队》第一周笔记
 categories: ["团队管理"]
 tags: ["gitlab", "remote","team management"]
-date: 2020-10-05
-lastmod: 2020-10-05
+date: 2020-10-25
+lastmod: 2020-10-25
 ---
 
 **免责声明**
@@ -107,113 +107,113 @@ lastmod: 2020-10-05
 
 首先，就是你的人力资源团队 — 负责 HR、招聘、入职和行政等等的人员大概率都会增加。主要原因可能是因为需要覆盖多个地区的工作，但是一般来说，在非传统办公室环境下成员会需要更多企业方面的支持和信息提供。此外，远程办公打破并颠覆了许多关于传统人力资源管理的期望。
 
-**IT operations** and **business operations** can also grow in size. More time and thought will go into planning, provisioning, controlling, and managing access to tools, data, and systems. Security training will require intense focus. In remote work, there’s more demand and need for strong business metrics. Expect to add seats and roles on these teams to support increased activity.
+**IT 和业务团队**的人数也会增加。更多的时间和想法会用于工具、数据和系统上的计划、供应、控制和管理。安全培训将受到重点关注。在远程工作中，对健壮的业务指标有更强烈的需求。由于事务的增加，需要为这些团队中增加人员和角色做好准备。
 
-Meanwhile, some areas of your team may be diminished. Most obviously, you won’t require **physical security** and **maintenance** in office buildings. But you can also expect to reduce in some areas of management: namely, roles that are focused on **employee monitoring**. In remote work, it’s neither possible nor advisable to monitor attendance and activity. As we’ll discuss later in this course, the focus should be on results and outcomes. Developing a culture of trust also means avoiding micromanagement and monitoring.
+同时，团队中的某些方面的需求可能会减少。最明显的就是不再要求与办公室相关的**人身安全和设备维护**。在管理层面的需求也会随之减少，例如：专注于**员工监督**的角色。在远程工作中，即不可能也不建议对员工进行考勤和监督。正如我们会在之后的课程中进行讨论的那样，重点应当放在结果和产出上。 建立信任文化还意味着避免微观管理和监督。
 
-Finally, what about hybrid-remote teams where some people are in an office and others are not? While we don’t advise this model, if you do decide to implement it, take care to ensure that all members of a single team unit are either all-remote or all-colocated. If team members have a unified experience, it helps prevent some of the dissatisfaction that can arise from hybrid-remote structures.
+最后，部分员工在办公室而另一部分员工不在办公室的混合远程团队应当怎样做呢？尽管我们不建议使用此模型，但是如果您决定实施该模型，请务必确保单个团队的所有成员都是全远程的或全在办公室的。如果团队成员具有统一的体验，则有助于防止混合远程结构引起的某些不满。
 
-# Lesson 3: Work Environment
+# 第三课：工作环境
 
-## Rethinking the Workspace
+## 重新思考工作空间
 
-### What are the essential elements of an effective workspace?
+### 有效工作空间的基本要素是什么？
 
-- Ability to focus
-  - Designated space with a door that can close
-  - Decent noise control
-- Ergonomics & Comfort
-  - Appropriate equipment
-  - Natural light
-  - Temperature control
-- What is not essential?
-  - A dedicated building for work
-  - Using the same space all the time
-- Empowering Flexible Work
-  - Travel stipends
-  - Coworking memberships
-  - Asynchronous workflows
+- 专注能力
+  - 可以构建封闭环境的空间
+  - 合理的降噪控制
+- 人体工程学与舒适度
+  - 适当的设备
+  - 自然光
+  - 温度控制
+- 哪些是非必要的？
+  - 专门的办公大楼
+  - 一直使用相同的空间
+- 赋予灵活工作的能力
+  - 旅行津贴
+  - 共享办公会员
+  - 异步工作流程
 
-## Onboarding Remotely
+## 远程入职
 
-### Be Effective
+### 使之有效
 
-- Provide adequate onboarding time: one to two weeks
-- Assign minimal work during this time
+- 提供充足的入职时间：一到两周
+- 在这段时间内分配尽量少的工作
 
-### Onboarding Dimensions
+### 入职要点
 
-- Organizational onboarding
-  - Benefits enrollment
-  - Pay
-  - Getting help
-  - Handbook & conduct
-  - Performance expectations
-  - Career development
-  - Onboarding for self-Directed work
-    - Require self-directed actions during onboarding
-    - Assign a variety of tasks to develop skills
-    - Include manager training for all managers of people
-    - Remote management requires high competency and a unified approach across your organization
-- Technical onboarding
-  - Prepare and provision before the new hire's first day
-  - Standardize the process
-  - Ensure secure practices during onboarding
-  - Reserve at least half of the first day for technical setup
-  - Use a project management tool to ensure compliance
-  - Customize Onboarding Based on the Hires
-    - Role
-    - Location
-    - Employment status
-    - Security access
-  - Inclusive Onboarding
-    - People should not need to ask for support
-    - Offer reimbursement for work needs, at the employee's discretion
-- Social onboarding
-  - Can begin on the first day
-  - Host an informal welcome call
-  - Model expected behavior for your new hire
-  - Continue social onboarding for at least one month
-  - Encourage informal interactions during work time
-  - Cultural training
-    - Communicate your organizational values to new hires
-    - Have clear expectations
-    - Require new hires to acknowledge culture information
-  - Onboarding buddies
-    - Answer questions
-    - Offer support
-    - Provide context
-    - Encourage team members to bring their full selves to work
-    - Work can not replace a social or family life, but your team members should feel comfortable sharing details of their interests and activities
+- 组织入职
+  - 员工福利
+  - 工资薪水
+  - 帮助渠道
+  - 员工手册与守则
+  - 绩效期望
+  - 职业发展
+  - 自主工作入职
+    - 入职时需要有自主完成的任务
+    - 分配各种任务来发展技能
+    - 对所有管理岗位的人员进行管理培训
+    - 远程管理需要整个组织具有高效和统一的手段
+- 技术入职
+  - 在新员工入职第一天之前完成准备工作
+  - 将流程标准化
+  - 在入职期间遵守安全实践
+  - 至少保留半天用于技术配置
+  - 使用项目管理工作来确保合规
+  - 根据招聘情况自定义入职
+    - 角色
+    - 地理位置
+    - 就业情况
+    - 安全访问
+  - 包容性入职
+    - 人们不需要刻意寻求帮助
+    - 根据员工的意愿提供工作需求上的报销
+- 社交入职
+  - 可以在第一天就开始
+  - 举行非正式的欢迎会议
+  - 为新员工模拟预期的行为
+  - 社交入职需要持续至少一个月
+  - 鼓励在工作时间进行非正式的互动
+  - 文化训练
+    - 与新员工交流组织价值观
+    - 有明确的期望
+    - 要求新员工承认文化信息
+  - 入职伙伴
+    - 问题解答
+    - 提供帮助
+    - 提供背景
+    - 鼓励团队成员全力以赴
+    - 工作不能取代社交或家庭的地位，但团队成员应当乐于分享他们的兴趣爱好
 
-### Additional Considerations for People and HR Best Practices
+### 人员和 HR 最佳实践的其它注意事项
 
-**Learning Objective: Understand how hiring and onboarding differ for a distributed workforce.**
+**学习目标：了解分布式团队的招聘和入职差异**
 
-The essential functions of supporting a multinational team do not change when that team is working remotely, but some of the details do. If you’re transitioning from a colocated or in-office environment to a distributed one, there are many subtle shifts in tactics you’ll need to facilitate.
+当跨国团队在远程工作时，支持该团队的基本功能不会改变，但某些细节会改变。 如果您要从同一环境或办公室环境过渡到分布式环境，则需要在策略上进行许多细微的调整。
 
-Here are just a few of the things to consider as you’re planning your recruiting, hiring, and onboarding processes. We'll cover each of these areas in greater detail throughout this course.
+请在规划招募、招聘和入职流程时考虑以下几点。 在本课程中，我们将更详细地介绍这些领域。
 
-**Transparency is vital**
+**透明度至关重要**
 
-In a remote, global workspace, sharing information transparently is essential to good communication, operations, inclusivity, culture, and more. Team members at all levels should be able to see how work happens and problems are solved. At GitLab, we are transparent by default. Work happens in issues that are visible to all team members, and conversations are directed to open chat channels where anyone can drop in and participate.
+在一个远程、全球化的工作空间，透明地共享信息对于良好的沟通、运营、包容性和文化等等至关重要。各个级别的团队成员都应该能够看到工作是如何进行以及问题是如何解决的。在 GitLab，我们是默认透明的。工作发生在所有团队成员可见的面板上，团队交流被重定向到公开频道以便任何人都可以交流并参与其中。
 
-The most obvious benefit here is communication, which we’ll discuss in more detail shortly, but there are lesser-known benefits to transparency. As an example, a leader posting their vacation schedule and delegating their work doesn’t just help their team know where to access information in the leader’s absence. It also models expected behavior, encourages team members to take time off, and empowers individuals. Or as another example, an employee seeking career advancement should be able to access information on how promotions work, and to observe who is being promoted and why.
+这里最明显的好处是沟通，我们将在稍后详细讨论，但透明度却鲜为人知。 例如，领导者发布他们的假期时间表并委派他们的工作不仅可以帮助他们的团队知道在领导者不在的情况下可以从哪里访问信息。它还可以模拟预期的行为，鼓励团队成员抽出时间休假，增强个体的决策力。 又例如，寻求职业发展的员工应该能够访问有关如何晋升的信息，并观察被晋升的人和原因。
 
-**Time zones and meetings**
+**时区和会议**
 
-Scheduling calls can quickly become a challenge for global teams. Have a set of practices around this. GitLab records video of most team calls so that anyone who can’t attend live can still review the recording. However, every team member should have a weekly 1:1 meeting with their supervisor. This is an important opportunity for synchronous problem solving, but it also creates a space for informal chat and relationship building.
+对于全球化团队来说，安排会议很快就会成为挑战。确保有一套围绕会议安排的解决方案。GitLab 会对大多数团队的会议进行录制，因此任何无法参与会议的人仍然可以查看回放。但是，每个团队成员都应与其主管每周进行一对一的交流。这是通过同步的方式解决问题的重要机会，但同时也为非正式聊天和建立关系创造了空间。
 
-Some remote teams have enforced or de facto work hours, while others are on asynchronous 24/7 schedules. Encode these expectations in your handbook, and have a plan for how you will communicate expectations around work schedules. Remember that you can’t, and shouldn’t, monitor attendance. Later in this course, we’ll discuss using results as a metric rather than hours worked.
+一些远程团队强制执行或实际上已经执行了对工作时间的要求，而其他远程团队则采用异步 24/7 的日程安排。将这些期望编写在您的手册中，并制定计划说明如何围绕工作时间表传达期望。 请牢记，您不能也不应监督出勤情况。 在后续的课程中，我们将讨论使用结果作为度量标准，而不是工作时间。
 
-**Benefits and rewards**
+**福利和奖励**
 
-Benefits of remote work can vary greatly from person to person. For many, there are intangible lifestyle benefits, such as the lack of a commute and a flexible schedule. This doesn’t mean you should cut back on formal benefits, however. As discussed previously, there are specific benefits you should consider adding to a traditional package: office equipment or workspace, and mental health benefits. [Here's how GitLab handles benefits](https://learn.gitlab.com/coursera-remote-work/benefits).
+远程工作的好处因人而异。 对于许多人来说，在无形中提供了许多生活上的便利。例如，没有通勤和灵活的时间安排。但是，这并不意味着您应该减少应有的福利。如前所述，您应该考虑在基本待遇之上添加一些特定的福利：办公设备或工作空间以及心理健康的福利。[这是一份 GitLab 的福利政策](https://learn.gitlab.com/coursera-remote-work/benefits)。
 
-Having a [dedicated, safe, ergonomic and effective workspace](https://learn.gitlab.com/coursera-remote-work/workspace) is essential for every worker. In remote work, you can’t predict what people’s home environments will be. The best practice is to offer whatever they need: furniture, equipment, tools, or even a coworking membership if they prefer. Make it clear that this is all expensable, with a reasonable cap on cost. For example, GitLab team members may spend up to $5,000 on their home office without needing expense approval. We offer a list of recommendations for equipment, but allow individuals to purchase what they believe they need.
+对每一位员工来说，拥有一个[专属的、安全的、符合人体工程学和有效的工作空间](https://learn.gitlab.com/coursera-remote-work/workspace)是非常基础的诉求。在远程工作中，您无法预测人们的家庭环境。最佳实践是提供他们需要的任何东西：家具、设备、工具或者如果愿意的话甚至可以使用共享办公室。明确说明这一切都是可报销的，并且具有合理的报销上限。例如，GitLab 团队成员允许在不需要批准的情况下在其家庭办公室上花费高达 5000 美元。我们提供了有关设备的建议列表，但允许个人根据喜好购置。
 
-Also offer a mental wellness support plan, such as a counseling benefit. [Burnout and loneliness](https://learn.gitlab.com/coursera-remote-work/mental-health) are risks of remote work, and the best way to support people who are experiencing burnout is to prepare them with knowledge on how to treat it. Let people know that confidential support is available, and inform them on how to access it, well before it could be needed.
+另外提供心理健康支持计划，例如心理辅导。[倦怠感和孤独感](https://learn.gitlab.com/coursera-remote-work/mental-health)是远程工作中会遇到的难题，帮助对抗倦怠感的最佳方式就是做好如何应对的知识储备。让人们知道可以在必要时获取具有隐私保护的支持，且在需要之前就告知如何获取此类帮助。
 
-**HR tech stack**
+**HR 技术栈**
 
-Your People team will need to employ a wide range of tools and services in order to do their jobs effectively. Here's a guide to [the tools GitLab uses throughout our organization](https://learn.gitlab.com/coursera-remote-work/tech-stack). Remote work is new, and no single tool or service will cover all needs. However, using untested services can lead to serious security risks. Work closely with your IT team to vet and safely set up the best tools for your needs, and conduct regular audits of personal data and safety. In a distributed environment, be aware that you’ll need to set aside some time simply for tech administration. Make time for this crucial process.
+人力资源团队将会需要使用各种工具和服务才能有效地完成他们的工作。这里有一份 [GitLab 组织的工具使用指南](https://learn.gitlab.com/coursera-remote-work/tech-stack)。远程办公仍旧属于一种较新的工作方式，目前没有一种工具或服务可以满足所有需求。但是，使用未经测试的服务可能会导致严重的安全风险。与您的 IT 团队紧密合作，以审核并安全地设置满足您需求的最佳工具，并对个人数据和安全性进行定期审核。值得注意的是，在分布式环境中，您需要专门预留一些时间来进行技术管理。为这个关键过程腾出时间。
