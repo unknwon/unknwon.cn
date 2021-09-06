@@ -2,7 +2,7 @@
 title: Sourcegraph 的一周年记
 categories: ["Sourcegraph"]
 tags: ["sourcegraph", "remote"]
-date: 2021-07-04
+date: 2022-07-04
 lastmod: 2020-06-06
 ---
 
