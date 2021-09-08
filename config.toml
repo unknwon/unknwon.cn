@@ -30,7 +30,7 @@ preserveTaxonomyNames = true
 [params]
     since = 2011
     author = "无闻"
-    avatar = "/img/favicon.jpeg"
+    avatar = "/img/favicon.png"
     subtitle = "抛弃世俗之浮躁，留我钻研之刻苦"
     beian = "浙ICP备20012357号"
     license= '本文采用<a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/" target="_blank">知识共享署名-非商业性使用 4.0 国际许可协议</a>进行许可'
