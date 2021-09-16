@@ -14,7 +14,11 @@ date: 2020-04-19
 
 没有什么远大的志向，只想做一个对国家和社会有贡献的有钱人。
 
+<br/>
+
 ---
+
+<br/>
 
 ### 我的办公设备
 
@@ -28,8 +32,10 @@ date: 2020-04-19
 - 📷 Gucee HD98 1080P
 - 🔳 IKEA LINNMON (120 cm x 60 cm)
 
+<br/>
+
 ---
 
-<br/> 
+<br/>
 <div align="center">关注微信公众号 <b>无闻是个码痴</b>，带你走向催更的人生。
 <img src="/img/wechat_qrcode.jpg" alt="微信公众号"></div>
