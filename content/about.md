@@ -29,7 +29,7 @@ date: 2020-04-19
 - 🎧 Bose QC Earbuds
 - 🎙 Blue Yeti (Midnight Blue) + Blue Compass
 - 🔆 BenQ ScreenBar Plus
-- 📷 Gucee HD98 1080P
+- 📷 Logitech C1000E BRIO 4K
 - 🔳 IKEA LINNMON (120 cm x 60 cm)
 
 <br/>
