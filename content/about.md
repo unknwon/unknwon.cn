@@ -24,7 +24,7 @@ date: 2020-04-19
 
 - 💻 MacBook Pro (16-inch, 2019)
 - 🖥 LG 27UL850, 27-inch 4K monitor + SkipperTech Dual Display Stand
-- 🎹 Das Keyboard 4C TKL Compact (MX Brown Switch)
+- 🎹 Das Keyboard 4C TKL Compact (MX Brown Switch) / Keychron K3 (Gateron Brown Switch)
 - 🖲 Apple Magic Trackpad 2 (Space Gray)
 - 🎧 Bose QC Earbuds
 - 🎙 Blue Yeti (Midnight Blue) + Blue Compass
