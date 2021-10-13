@@ -8,18 +8,17 @@ lastmod: 2021-10-13
 
 ## 强迫症起源
 
-It has been a while since I wanted to write down how I do my work, both to share and reflect on my own to seek opportunities for improvement.
+很久之前我就想要写一篇文章记录我的工作方式，并在分享的同时对自己的工作方式进行审视，看看有什么能改进的地方。
 
-I'm the kind of person that almost always need to designate a purpose to justify the existence of every software I installed, every service I subscribed, and every hardware I bought.
+我是那种总是要为下载软件、订阅服务和购买硬件寻找理由的人，举个简单的例子。我的 macOS 同时安装了 [GoLand](https://www.jetbrains.com/go/) 和 [Visual Studio Code](https://code.visualstudio.com/) 用于 [Go 语言](https://golang.org/)开发，但是何时使用什么软件是有规矩的。
 
-As a simple example, I have both [GoLand](https://www.jetbrains.com/go/) and [Visual Studio Code](https://code.visualstudio.com/) installed on my macOS for working with [Go](https://golang.org/), but I follow my rules when comes to which one to use at what circumstances. If you ever curious about how, here they are:
+简单来说：
+- 如果是开发正经的项目，我会使用 GoLand
+- 如果是进行临时编辑，或是开发临时项目，我会使用 VSCode
 
-- I use GoLand for all serious coding for established projects.
-- I use VSCode for any quick edits, or coding for temporary projects.
+但凡它们其中一个能干这两件事，另一个就不会存活在我的电脑上。
 
-If either of them can do both, only one of them will survive on my machine.
-
-The point is, I have strong symptoms of [OCD](https://www.mayoclinic.org/diseases-conditions/obsessive-compulsive-disorder/symptoms-causes/syc-20354432) in terms of my setup, my workflow, and of course, my work.
+没错，我对于我的开发环境、工作流程和工作产出就是有很严重的[强迫症](https://www.mayoclinic.org/diseases-conditions/obsessive-compulsive-disorder/symptoms-causes/syc-20354432)。
 
 ## Kicking off the day
 
