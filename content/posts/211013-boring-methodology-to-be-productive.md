@@ -20,13 +20,13 @@ lastmod: 2021-10-13
 
 没错，我对于我的开发环境、工作流程和工作产出就是有很严重的[强迫症](https://www.mayoclinic.org/diseases-conditions/obsessive-compulsive-disorder/symptoms-causes/syc-20354432)。
 
-## Kicking off the day
+## 出来玩最重要的是出来
 
-Like any [GTD](https://en.wikipedia.org/wiki/Getting_Things_Done) user, I have many tasks either planned or postponed to my Today's view in [TickTick](https://ticktick.com/). There is one special task that repeats every single day, which is the "Plan for the day".
+我自诩为 [GTD](https://en.wikipedia.org/wiki/Getting_Things_Done) 方法论的实践者，因此在我 [TickTick](https://ticktick.com/) 的今日视图（Today）里会有许多计划或推迟到今天的任务，这其中就包含了一个每日重复的任务，叫梳理今日任务（Plan for the day）。
 
-### Plan for the day
+### 花三分钟安排一天
 
-It reminds me to go through and triage the entire list of tasks for today:
+每天开始，我都会先梳理一遍今日视图里的所有任务：
 
 1. Some tasks are dependent on real world circumstances, I often tentatively put a date and check again on that date. If today is still not good time to tackle, I would tentatively pick another date again.
 1. Postpone tasks that I definitely will not have time to get done to some later dates. It is always OK to temporarily overload later dates, because there is no perfect plan anyway. Won't borther making it in the first place, just focus on what's the most important.
