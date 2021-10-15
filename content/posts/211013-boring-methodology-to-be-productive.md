@@ -28,12 +28,12 @@ lastmod: 2021-10-13
 
 每天开始，我都会先梳理一遍今日视图里的所有任务：
 
-1. Some tasks are dependent on real world circumstances, I often tentatively put a date and check again on that date. If today is still not good time to tackle, I would tentatively pick another date again.
-1. Postpone tasks that I definitely will not have time to get done to some later dates. It is always OK to temporarily overload later dates, because there is no perfect plan anyway. Won't borther making it in the first place, just focus on what's the most important.
+1. 有些任务会依赖于现实世界的因素，我一般会先定一个大致的日期，然后到那一天再进行判断是否需要再次延后。
+1. 有些任务则可能完全没有可能在今天完成，那么也需要被延后。一般来讲，我主要专注于今天任务的安排，对于时候可能造成未来某个日期的任务堆积并不是很在意，因为可以等到那天再做梳理。
 
-That's it. It is not a complex process, the key is to be honest with myself, I'm not superman.
+梳理任务的关键在于对于自己实际的产出效率和可用时间上的正确评判，很显然我不是超人，每天也只有 24 个小时。
 
-### Warming up the brain
+### 预热大脑
 
 Make a cup of coffee.
 
