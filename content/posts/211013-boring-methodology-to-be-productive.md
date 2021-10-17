@@ -143,4 +143,4 @@ Gmail 过滤器（Filters）可以非常好地帮助我自动标记、排序和�
 
 恐怕你也无法想象你的航空公司会告诉你某架次飞机会因为长期没有检修而飞得更快吧？
 
-[Sourcegraph 提供非常优厚的带薪休假政策](https://handbook.sourcegraph.com/people-ops/paid-time-off-and-working-hours) 来帮助团队里的每个人都变得更积极、主动且高效的。
+[Sourcegraph 提供非常优厚的带薪休假政策](https://handbook.sourcegraph.com/people-ops/paid-time-off-and-working-hours)来帮助团队里的每个人都变得更积极、主动且高效的。
