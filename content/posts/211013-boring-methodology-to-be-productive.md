@@ -48,8 +48,8 @@ lastmod: 2021-10-17
 1. **Slack DMs:** 私聊消息（Direct messages）享有最高的优先级，因为一般都是较为紧急、私人或重要的事项。
 1. **Slack Threads:** 我正在跟进或者有提及我的讨论一般来讲会更需要我的关注、输入和反馈。
 1. **GitHub PRs with review requested:** 作为一名软件工程师，我深知被反馈环节卡住的无语感，尤其是团队成员还分布在各个不同的时区。当每次反馈周期可以长达 24 小时的时候，尽早提供我的反馈对于提升团队的整体运作效率是非常关键的。
-1. **Slack starred channels:** 处理所有星标频道（Starred channels）的未读消息，其中有些消息我可以作出快速回复，有些消息需要更多时间的思考，则会加入我的当日待办事项。星标频道是与我日常工作最息息相关的一些内容，我也会经常查看确保没有消息遗漏。
-1. **Slack reminders:** 处理稍后提醒（Reminders）并对每个提醒事项作出决策：
+1. **Slack starred channels:** 处理所有星标频道的未读消息，其中有些消息我可以作出快速回复，有些消息需要更多时间的思考，则会加入我的当日待办事项。星标频道是与我日常工作最息息相关的一些内容，我也会经常查看确保没有消息遗漏。
+1. **Slack Reminders:** 处理稍后提醒并对每个提醒事项作出决策：
     - 添加到我的当日待办事项，即打开一个浏览器标签
     - 如果我觉得此时的当日待办事项已经够多了，就延后到今天更晚的时候再做决定
     - 如果我觉得今天肯定没有时间或还不是一个执行的好时机，则会延后到之后的某个日期
@@ -67,7 +67,7 @@ lastmod: 2021-10-17
 
 我的决解方法很粗暴，就是禁用电脑和手机上绝大部分软件的推送通知，包括应用图标上的红点（没错，也包括短信、邮件）。我这样做的目的就是为了只有当我想起来的时候再去查看新内容，最大程度上在集中精力时避免被推送通知打断。
 
-我只允许来自 Slack 和微信的私聊消息（并且禁用了所有微信群的消息提示），但是我仍然不允许这两款应用的图标上出现红点。如果我没在收到消息的时候注意到，那么只能等我想起来的时候再去查看了。
+我只允许来自 Slack 和微信的私聊消息的实时通知（并且禁用了所有微信群的消息提示），但是我仍然不允许这两款应用的图标上出现红点。如果我没在收到消息的时候注意到，那么只能等我想起来的时候再去查看了。
 
 ### Slack
 
@@ -84,31 +84,31 @@ lastmod: 2021-10-17
 
 ### GitHub
 
-I only receive emails for threads I'm participating, and other notifications will reside on the web. I have also completely disabled notifications from GitHub Actions until I'm able to configure it on the per-repo basis.
+我只会收到我正在参与的讨论的邮件通知，其它类型的通知全部都会留存在网页版上。我完全禁用 GitHub Actions 的通知是因为我不能够根据仓库单独配置，现在的版本信息有效比低的离谱。
 
 ![GitHub notification](/img/211013/github-notification.png)
 
-Notifications sitting on the web are not ignored, I triage _every single one of them_. Yes, there are thousands of them every month.
+许多人根本不看 GitHub 网页版上的通知，但我不会，我会处理每一条网页版上的消息通知。没错，每个月都有几千条网页版消息通知，我并没有放弃它们。
 
-One important thing is that I route work-related notifications to my work email, not to my personal email.
+我把工作相关的消息通知全部转发到我的工作邮箱，这样在我查收个人邮件的时候不会受到工作相关内容的干扰。
 
 ![GitHub work notification](/img/211013/github-work-notification.png)
 
 ### Gmail
 
-Gmail filters help me highlight, prioritize, and delete emails.
+Gmail 过滤器（Filters）可以非常好地帮助我自动标记、排序和删除电子邮件。
 
 ![Gmail filters](/img/211013/gmail-filters.png)
 
-## Don't drop the ball
+## 一个也不能落下
 
-It is super often that I encounter a message but I do not have time to think or act on it, and I do not like the feeling of I missed something, nor trying to remember countless things in my brain.
+很多时候，在我看到一条消息的时候我都没有时间立刻去处理或者回复，但我即不想无视它，也不想让这些杂乱无章的信息塞满我有限而宝贵的脑容量。
 
-I make extensive use of **Slack reminders**, this is one of my favorite features of Slack (the other one is **Threads**).
+我的解决方案就是疯狂使用 **Slack Reminders**，这是我最喜爱的 Slack 功能之一（另一个是 **Threads**）。
 
 ![Slack reminders](/img/211013/slack-reminders.png)
 
-If the message happens to be an email, I snooze it.
+如果是一封电子邮件，那么我就会使用 Gmail 的 Snooze 功能。
 
 ![Email snooze](/img/211013/email-snooze.png)
 
