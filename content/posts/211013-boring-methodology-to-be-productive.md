@@ -29,37 +29,34 @@ lastmod: 2021-10-13
 每天开始，我都会先梳理一遍今日视图里的所有任务：
 
 1. 有些任务会依赖于现实世界的因素，我一般会先定一个大致的日期，然后到那一天再进行判断是否需要再次延后。
-1. 有些任务则可能完全没有可能在今天完成，那么也需要被延后。一般来讲，我主要专注于今天任务的安排，对于时候可能造成未来某个日期的任务堆积并不是很在意，因为可以等到那天再做梳理。
+1. 有些任务则完全没有可能在今天完成，那么也需要被延后。一般来讲，我主要专注于今天任务的安排，对于是否可能造成未来某个日期的任务堆积并不是很在意，因为可以等到那天再做梳理。
 
 梳理任务的关键在于对于自己实际的产出效率和可用时间上的正确评判，很显然我不是超人，每天也只有 24 个小时。
 
 ### 预热大脑
 
-Make a cup of coffee.
+首先，泡一杯咖啡。
 
-I'm not an expert in terms of drinking coffee, actually my girlfriend even makes fun of me for drinking beverages instead of real coffoe, because I'm a big fan of [Nescafé 3 in 1 Instant Coffee Sticks](https://www.amazon.com/Nescaf%C3%A9-Instant-Coffee-Sticks-ORIGINAL/dp/B000W5BS9K).
+我是一位业余咖啡选手，我女朋友甚至因为我爱喝雀巢三合一而嘲笑我喝的并不是咖啡而是饮料。
 
 ![That's so mean](https://media.giphy.com/media/frAYDKLzkRoWf08SGw/giphy.gif)
 
-Anyway.
+好吧，无可辩驳。
 
-I then process following items to warm up my brain, let me explain each of them:
+然后，我会按照以下步骤进行大脑预热：
 
-1. **Slack DMs:** Direct messages have the highest priority in my daily processing queue because generally they are about something very urgent, personal and/or important.
-1. **Slack Threads:** Discussions I'm following and/or have been mentioned are more likely needing my attention, input, feedback and/or followup ASAP.
-1. **GitHub PRs with review requested:** As a software engineer, I know the feeling of being blocked or waiting for feedback, espcially when teammates are across different timezones, a single feedback roundtrip could take up to 24 hours. It is better to share my feedback early because not everyone (in fact no one) ends a day at the same time as I do.
-1. **Slack starred channels:** Triage unread messages in all starred channels to make sure I respond to simple things ASAP that could unblock my teammates, or add tasks that needs more thinking to my task queue for the day (i.e. open a browser tab for it). Starred channels are the ones most relevant to my day-to-day work, which needs me to constantly keep an eye on.
-1. **Slack reminders:** Triage reminders to make a decision for each of them:
-    - Add to my task queue, i.e. open a browser tab for it
-    - Postpone to later today, often because I feel my task queue is risking to reach my capacity
-    - Postpone to a later date, either because:
-        - I definitely will not have time today
-        - Not a good time to tackle depending on circumstances
-1. **Emails:** As part of the brain warm up, I only take care of emails that need to be postponed to later dates. Other emails simply become part of my task queue, prioritized by the time of arrival to my inbox (earliest arrival has the highest priority).
+1. **Slack DMs:** 私聊消息（Direct messages）享有最高的优先级，因为一般都是较为紧急、私人或重要的事项。
+1. **Slack Threads:** 我正在跟进或者有提及我的讨论一般来讲会更需要我的关注、输入和反馈。
+1. **GitHub PRs with review requested:** 作为一名软件工程师，我深知被反馈环节卡住的无语感，尤其是团队成员还分布在各个不同的时区。当每次反馈周期可以长达 24 小时的时候，尽早提供我的反馈对于提升团队的整体运作效率时非常关键的。
+1. **Slack starred channels:** 处理所有星标频道（Starred channels）的未读消息，其中有些消息我可以作出快速回复，有些消息需要更多时间的思考，则会加入我的当日待办事项。星标频道是与我日常工作最息息相关的一些内容，我也会经常查看确保没有消息遗漏。
+1. **Slack reminders:** 处理稍后提醒（Reminders）并对每个提醒事项作出决策：
+    - 添加到我的当日待办事项，即打开一个浏览器标签
+    - 如果我觉得此时的当日待办事项已经够多了，就延后到今天更晚的时候再做决定
+    - 如果我觉得今天肯定没有时间或还不是一个执行的好时机，则会延后到之后的某个日期
+1. **Emails:** 在大脑预热阶段，我只会处理那些我今天肯定没有时间执行的邮件并延后到之后的某个日期。剩余的邮件则自动成为我的当日待办事项的一部分，并根据邮件到达时间确定优先级（越早到达的邮件优先级越高）
 
-Upon finishing the brain warm up, I will have a bunch of open browser tabs, as one of three forms of my task queue, the other two forms are:
-- Planned tasks in my TickTick
-- Email inbox
+此时此刻，我一般就会有许多浏览器标签了，这是我当日待办事项的三种形式之一，其余两种分别为 TickTick 中的今日视图和电子邮件收件箱。
+
 
 I've learned my lesson that it is not always possible to be able to get everything done in my task queue, and it is still OK to end my day to avoid creating a stressful mindset without a good reason.
 
