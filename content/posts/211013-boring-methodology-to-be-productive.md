@@ -112,35 +112,35 @@ Gmail 过滤器（Filters）可以非常好地帮助我自动标记、排序和�
 
 ![Email snooze](/img/211013/email-snooze.png)
 
-You may get frustrated like I was wanting to customize the time on this drop down, read [How to Find and Change the Times for Your Gmail Snooze Settings](https://www.groovypost.com/howto/find-and-change-the-times-for-your-gmail-snooze-settings/).
+如果你也经常使用这项功能，那可能和我一样为如何自定义这个列表中的时间而抓狂过，不过解决方案在 [How to Find and Change the Times for Your Gmail Snooze Settings](https://www.groovypost.com/howto/find-and-change-the-times-for-your-gmail-snooze-settings/) 这篇文章里。
 
-## Rolling in the virtual workplace
+## 在虚拟工作空间里遨游
 
-I have a dedicated Chrome profile as the virtual workplace for work-related communications, which means:
+我有一个专门的 Chrome 用户作为我虚拟工作空间的交流平台：
 
-- I run Slack in the browser
-- I do not have Slack or work email installed/connected on my laptop nor my phone
+- 我在浏览器里运行 Slack
+- 我并没有在笔记本或手机上安装或配置 Slack 和工作邮箱
 
-Why not the Slack desktop app? Because it does not allow me to isolate my work workspace from other communicate workspaces, which is really really really 👇
+为什么我不使用 Slack 桌面版？因为它没有能力区分工作空间和其它社区，这就使得我可能会在无意中查看到工作相关的消息。
 
 ![Sucks](https://media.giphy.com/media/2zcmB56pYiTVEUSDa4/giphy.gif)
 
-Another major benefit of running Slack in the browser is that I can take advantage of [Chrome tab groups](https://blog.google/products/chrome/manage-tabs-with-google-chrome/) for organizing work (by opening multiple tabs for different Slack messages/threads).
+另一个在浏览器里运行 Slack 的关键优势是我可以利用 [Chrome tab groups](https://blog.google/products/chrome/manage-tabs-with-google-chrome/) 来组织我的工作流。
 
 ![Chrome tab groups](/img/211013/chrome-tab-groups.png)
 
-I also practice (kind of) Tomato timer, using a dead simple, beautiful, and free app for macOS named [Flow](https://flowapp.info/). By no means as a proof of my work (we at Sourcegraph evaluate results not number of hours), but a way to track my time spent to measure my own sense of productivity.
+我还是一个番茄计时器的非硬核践行者（只记录工作不记录休息），我的工作时间都会用一款叫做 [Flow](https://flowapp.info/) 的软件进行追踪，我选择它的原因就是它很简洁、美观并且免费。当然了，工作时长无法成为衡量我工作的依据，Sourcegraph 不提倡也不践行根据工作时长来决定个人绩效，而是根据实际的有效产出。我对自己的工作时间进行追踪的根本目的是为了进行自我效率评估。
 
-## Favor asynchronous communication
+## 异步沟通是健康的协作方式
 
-I believe interruption is the biggest killer for productivity in software engineering, and why does asynchronous communication help? I recommend reading [Maker's Schedule, Manager's Schedule](http://www.paulgraham.com/makersschedule.html).
+我坚信在软件工程领域，精力集中时被打断是扼杀高效工作的最有效手段，那为什么异步沟通就不会呢？我推荐阅读 [Maker's Schedule, Manager's Schedule](http://www.paulgraham.com/makersschedule.html)。
 
-There are many other benefits of asynchronous communication, read more on [Asynchronous communication at Sourcegraph](https://handbook.sourcegraph.com/company/asynchronous-communication).
+异步沟通还有许多其它好处，可以阅读 [Asynchronous communication at Sourcegraph](https://handbook.sourcegraph.com/company/asynchronous-communication) 这篇文章。
 
-## Take time off
+## 给自己放个假
 
-Software engineering is a creative type of work, and the human brain is the most complex and sophisticated instrument in the world. Working longer hours does not guarantee to be more creative, every mechanician knows parts need to be checked and maintained periodically.
+软件工程类属创造性工作，而人类大脑又是世界上最复杂、最精密的仪器。超时长工作并不会使得大脑变得更具创造性，因为每个机械师都知道零部件需要定期检查和维护。
 
-Can you ever imagine your airline company tells you that the aircraft is going to fly faster because it hasn't been checked and maintained for a very long time?
+恐怕你也无法想象你的航空公司会告诉你某架次飞机会因为长期没有检修而飞得更快吧？
 
-[Sourcegraph is very generous on Paid time off (PTO)](https://handbook.sourcegraph.com/people-ops/paid-time-off-and-working-hours) to help everyone be energized, motivated, and productive.
+[Sourcegraph 提供非常优厚的带薪休假政策](https://handbook.sourcegraph.com/people-ops/paid-time-off-and-working-hours) 来帮助团队里的每个人都变得更积极、主动且高效的。
