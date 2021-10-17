@@ -3,7 +3,7 @@ title: 高效工作的朴素方法论
 categories: ["杂记"]
 tags: ["sourcegraph", "remote work", "methodology", "productivity"]
 date: 2021-10-13
-lastmod: 2021-10-13
+lastmod: 2021-10-17
 ---
 
 ## 强迫症起源
@@ -47,7 +47,7 @@ lastmod: 2021-10-13
 
 1. **Slack DMs:** 私聊消息（Direct messages）享有最高的优先级，因为一般都是较为紧急、私人或重要的事项。
 1. **Slack Threads:** 我正在跟进或者有提及我的讨论一般来讲会更需要我的关注、输入和反馈。
-1. **GitHub PRs with review requested:** 作为一名软件工程师，我深知被反馈环节卡住的无语感，尤其是团队成员还分布在各个不同的时区。当每次反馈周期可以长达 24 小时的时候，尽早提供我的反馈对于提升团队的整体运作效率时非常关键的。
+1. **GitHub PRs with review requested:** 作为一名软件工程师，我深知被反馈环节卡住的无语感，尤其是团队成员还分布在各个不同的时区。当每次反馈周期可以长达 24 小时的时候，尽早提供我的反馈对于提升团队的整体运作效率是非常关键的。
 1. **Slack starred channels:** 处理所有星标频道（Starred channels）的未读消息，其中有些消息我可以作出快速回复，有些消息需要更多时间的思考，则会加入我的当日待办事项。星标频道是与我日常工作最息息相关的一些内容，我也会经常查看确保没有消息遗漏。
 1. **Slack reminders:** 处理稍后提醒（Reminders）并对每个提醒事项作出决策：
     - 添加到我的当日待办事项，即打开一个浏览器标签
@@ -55,33 +55,32 @@ lastmod: 2021-10-13
     - 如果我觉得今天肯定没有时间或还不是一个执行的好时机，则会延后到之后的某个日期
 1. **Emails:** 在大脑预热阶段，我只会处理那些我今天肯定没有时间执行的邮件并延后到之后的某个日期。剩余的邮件则自动成为我的当日待办事项的一部分，并根据邮件到达时间确定优先级（越早到达的邮件优先级越高）
 
-此时此刻，我一般就会有许多浏览器标签了，这是我当日待办事项的三种形式之一，其余两种分别为 TickTick 中的今日视图和电子邮件收件箱。
+此时此刻，我一般就会有许多浏览器标签了，这是我当日待办事项的三种形式之一，其余两种分别为 TickTick 的今日视图和电子邮件收件箱。
 
+我认为有一点认知非常重要，那就是并不是每天都可以把安排的任务全部完成，并且在无法完成的情况下也应当适时结束工作来避免给自己造成不必要的精神压力。
 
-I've learned my lesson that it is not always possible to be able to get everything done in my task queue, and it is still OK to end my day to avoid creating a stressful mindset without a good reason.
+## 推送通知是互联网时代的毒药
 
-## Dealing with notifications
+我注意到推送通知经常会带给人们焦虑的情绪，尤其是工作上的，我对此也深恶痛绝。
 
-I notice people often have anxiety from notifications, and push notifications could drive me crazy, too. Therefore, I aggressively configured notifications in the way that would minimize the number of push notifications, and relying on the long-polling mode for consuming notifications.
+### 一剂良药
 
-### Sane setup
+我的决解方法很粗暴，就是禁用电脑和手机上绝大部分软件的推送通知，包括应用图标上的红点（没错，也包括短信、邮件）。我这样做的目的就是为了只有当我想起来的时候再去查看新内容，最大程度上在集中精力时避免被推送通知打断。
 
-The general principle for my sane setup of notifications is to turn them off, which means no push notifications nor app badges (i.e. red dots), including all desktop or mobile apps (Yes, emails, messages, everything). Why? Because this ensures I only pull notifications when I'm ready to pull, not because they're coming.
-
-Exceptions are rare, only Slack and WeChat DMs (I mute every group chat in WeChat), even then, I don't allow any red dot to appear on my screen, it’s just that I get notified when a DM is coming, temporarily.
+我只允许来自 Slack 和微信的私聊消息（并且禁用了所有微信群的消息提示），但是我仍然不允许这两款应用的图标上出现红点。如果我没在收到消息的时候注意到，那么只能等我想起来的时候再去查看了。
 
 ### Slack
 
-I wish there is an option to allow push notifications only for DM, but I can live with it for now.
+我希望 Slack 可以允许只有在收到私聊消息的时候才提示，不过目前看来还不至于造成困扰。
 
 ![Slack notification](/img/211013/slack-notification.png)
 
-For normal messages, I have set up four categories for my Slack channels:
+对于正常消息，我对 Slack 的频道进行了四种类型的划分：
 
-1. **Starred:** As previously mentioned, these are the channels that I would constantly check for new messages.
-1. **Priority:** Channels that are not directly related to my day-to-day work, but I have interests on following updates, including `#dev-databases`, `#dev-experience`, `#lang-go`, etc.
-1. **Unmuted:** When I get bored, I go check new messages in these channels. 🙂
-1. **Muted:** I do not follow what's going on these channels, but often times I need to post messages (because Slack requires join a channel in order to post a message), including `#legal`, `#finance`, etc.
+1. **Starred:** 前文已经提到，这些频道是我会经常查看的
+1. **Priority:** 这些频道并不与我的日常工作息息相关，但是都是一些我感兴趣的话题和讨论，包括 `#dev-databases`、`#dev-experience`、`#lang-go` 等等
+1. **Unmuted:** 如果我感到无聊，就会去看这些频道的消息 🙂
+1. **Muted:** 由于 Slack 要求必须加入频道才能发送消息，但是我又不完全关心这些频道里面发生了什么，所以就会将它们的消息提示完全关闭但也不退出，包括 `#legal`、`#finance` 等等
 
 ### GitHub
 
