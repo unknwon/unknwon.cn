@@ -1,7 +1,7 @@
 ---
 title: 在国外远程办公是一种怎样的体验？
 categories: ["杂记"]
-tags: ["sourcegraph", "remote"]
+tags: ["sourcegraph", "remote work"]
 date: 2019-11-16
 lastmod: 2020-04-16
 ---

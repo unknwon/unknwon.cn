@@ -1,7 +1,7 @@
 ---
 title: GitLab 课程《如何管理远程团队》第一周笔记
 categories: ["团队管理"]
-tags: ["gitlab", "remote","team management"]
+tags: ["gitlab", "remote work","team management"]
 date: 2020-10-25
 lastmod: 2020-10-25
 ---
