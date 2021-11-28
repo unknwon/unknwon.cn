@@ -24,15 +24,6 @@
 
 {{ if eq ( getenv "HUGO_ENV" ) "production" }}
   {{ template "_internal/google_analytics_async.html" . }}
-  {{ with .Site.Params.baiduAnalytics}}
-    <script>
-    var _hmt = _hmt || [];
-    (function() {
-        var hm = document.createElement("script");
-        hm.src = "https://hm.baidu.com/hm.js?{{.}}";
-        var s = document.getElementsByTagName("script")[0];
-        s.parentNode.insertBefore(hm, s);
-    })();
-    </script>
-    {{ end }}
 {{ end }}
+
+<script defer data-domain="unknwon.cn" src="https://plausible.io/js/plausible.js"></script>
