@@ -8,25 +8,25 @@ lastmod: 2021-12-29
 
 M1 芯片的 MacBook 在 2020 年刚出来的时候，我根本没怎么关注。因为我觉得新的芯片刚出来生态肯定是需要时间去追赶的，我也不是那么想要吃螃蟹。回头来看，这是个正确的决定。实际上，我甚至在去年年末还购置了英特尔芯片的顶配 MacBook Pro 16 来升级[我的办公设备](https://unknwon.cn/about/)。
 
-This year, for some reasons, maybe because I got a [Mi Box](https://www.mi.com/global/mibox/) and watched too many YouTube videos talking about how performant M1-chips are, made me watch the Apple event live, which released stunning new models of MacBook Pro 14-inch and 16-inch. I was super excited for no reason, to be honest, but still pre-ordered the 14-inch base model and [got it on the first day of shipping](https://twitter.com/jc_unknwon/status/1452872773290717192).
+今年可能是因为买了[小米盒子海外版](https://www.mi.com/global/mibox/)然后在 YouTube 上看了太多关于 M1 芯片的评测视频，让我想要观看今年苹果秋季发布会的直播，包括了两款 MacBook Pro 14 和 16 英寸的发布。老实说，我也不知道为什么我被搞点有点激动，但是依然选择预购了 14 英寸的版本，并在[发货的第一天就开箱了](https://www.bilibili.com/video/BV1kF411e75n)。
 
-I do not plan to have this new MacBook Pro 14 M1 Pro to be a replacement of my existing 16-inch model. I'm still a bit conservative so I want to get a taste of M1-chip first, and to see what's the impact to my day-to-day workflow, espcially what tools are not working (which I heard a lot last year). Another upside of having a separate and smaller laptop allows me to carry around when I'm not at my desk, without plugging and unplugging my 16-inch to all the wires every time.
+我并不打算把这个 14 英寸的版本替换目前使用的 16 英寸作为我的主力机器。我对目前 M1 生态的支持程度还有抱有一些莫名的怀疑，所以买来主要是作为尝鲜使用，体验一下看看对我的日常工作流有什么影响。拥有另一台 MacBook 的好处是可以不再需要不停地插拔 16 英寸的各种接头，带着 14 英寸到处跑就好了。
 
-## Is it better?
+## 真的好用？
 
-Comparing MacBooks between a base and a top-tier model sounds unfair, but I'm once again being reminded that Apple is a hardware company (who [makes shitty software](https://twitter.com/jc_unknwon/status/1457216550390272000) 🙂).
+在 MacBook 的乞丐版和顶配版之间做比较感觉有点不道德，但是我再次被作为硬件公司的苹果公司惊艳到了（但苹果依旧是专门[制造垃圾软件的公司](https://twitter.com/jc_unknwon/status/1457216550390272000) 🙂）。
 
-The worst part of my experience with the 16-inch model I have is actually not the noisy of the CPU fan (which is the second-worst), but when it gets hot, the Touch ID sensor somehow stops working from time to time.
+16 英寸的 CPU 风扇一直是被人诟病的问题，但对我来说这不是最糟的（第二遭的），而是当机器过热之后 Touch ID 就开始时不时的失灵。
 
-Desipte the new 14-inch model is slightly heavier than the previous 16-inch model, the overall size feels like a toy size to me, and perfect to my use case to be my portable device. And of course, the new display is _amazing_ (disclaimer: everyone seems saying this, I'd like not fall behind).
+尽管 14 英寸的机器比 16 英寸的版本还稍重一些，但是在整体尺寸上对我来说感觉像一个玩具，完美契合我的移动办公需求。当然了，新的显示屏也非常惊艳（呵呵，我懂个屁，不过大家都这么说我不说显得有些格格不入）。
 
-The notch, huh, yes. I will not be surprised if new laptops made by others are soon following this funny design (hint: the notch on iPhone). Well, technically it is not a problem for me, but it is a problem for menu bar items. Due to the notch, menu bar items are just disappeared if they can't fit in! The available space for menu bar items is so small that I finally decided to buy [Bartender 4](https://www.macbartender.com/Bartender4/) (Did Apple have secret deal with the Bartender developers? Wondering if their sales are dramatically increasing, LOL).
+说到新版 MacBook，刘海是逃不开的问题，我相信很快就会有大批厂商跟风这种愚蠢的设计（参考 iPhone 的刘海）。不过严格来说这设计本身对我没什么影响，但是很多菜单栏的软件会受到影响，从而对我造成困扰。当菜单栏空间不够的时候，放不下的图标就会直接消失，根本没有别的问题访问它们。鉴于这个问题，我最终下定决心成为 [Bartender 4](https://www.macbartender.com/Bartender4/) 的付费用户（我有理由怀疑 Apple 和 Bartender 的开发者达成了某种秘密协议）。
 
-The battery life is impressive. The power adapter was like a separate component in laboratory but the MacBook can't really live without it in real life. I am the kind of person that if I know I'm going to back home late, I turn on battery save mode for my iPhone even when it's charged to 100%. In contrast, I have never worried about the new 14-inch model running out of battery. That's about how impressive it is.
+话说回来，新款 MacBook 的电池使用寿命非常牛逼！自盘古开天地，充电器和笔记本对我来说就不能分离，不带着充电器和没带笔记本大差不差。而我呢，又是那种知道晚回家就会把手机电充满并且在 100% 电量的时候就开启省电模式的人。可见我对笔记本的电池使用寿命是多么的没有安全感，但是我在使用新款 MacBook 的过程中，从来就没有担心过电量不够的问题，真的非常牛逼！
 
-One thing I do not like so far is the position of the function key, placing it on the left-bottom corner bothers me a lot, and I misused it as the control key very often.
+另一个我不喜欢的是功能键的摆放位置，我所使用过的其它键盘布局左下角都是 Ctrl 键，因此我在使用这款 MacBook 的过程中非常容易按错。
 
-## Reevaluating the browser
+## 重新评估浏览器
 
 With a brand new laptop and a clean system, it is the perfect time to reevaluate what software and tools I could set up for. The biggest debate in my head is the primary browser. I was very tempted to use Safari as the only browser, but once again choosed Chrome.
 
