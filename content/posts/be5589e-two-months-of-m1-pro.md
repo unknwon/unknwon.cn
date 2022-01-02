@@ -28,34 +28,34 @@ M1 芯片的 MacBook 在 2020 年刚出来的时候，我根本没怎么关注�
 
 ## 重新评估浏览器
 
-With a brand new laptop and a clean system, it is the perfect time to reevaluate what software and tools I could set up for. The biggest debate in my head is the primary browser. I was very tempted to use Safari as the only browser, but once again choosed Chrome.
+拿到一个全新的 MacBook 和一个纯净的系统，正是思考更换软件和工具的最佳时机。我最大的困扰是浏览器的选择，我非常想要尝试将 Safari 作为我的主力浏览器，不过还是再次选择了 Chrome。
 
-Why?
+为什么呢？
 
-The one last blocker for me is that Safari does not support multiple user profiles.
+因为 Safari 不支持多用户。
 
-I rely on [different user profiles to separate work and personal life](https://unknwon.io/posts/211009_boring_methodology_to_be_productive/#rolling-in-the-virtual-workplace), so this is really critical.
+我非常依赖[浏览器的多用户来隔离个人和工作空间](https://unknwon.cn/2021/211013-boring-methodology-to-be-productive/)，这对我来说是必不可少的功能。
 
-I did think about using Safari for non-work purpose and use the Chrome profile that I set up for work. The problem with this solution that links are opened in the default browser, and Chrome knows which profile to open the link (i.e. the last active one). Thus, if my default browser is Safari but I need to open a link for work, I always have to copy-and-paste.
+我的确有想过把 Safari 作为个人用途，然后继续使用 Chrome 完成工作相关的内容。这样做的问题是在其它软件中打开链接时总会使用默认的浏览器，而不会像仅使用 Chrome 时，可以根据最后活跃的用户来决定使用哪个用户来打开当前的链接。如果默认浏览器是 Safari 的话，在我需要打开工作空间的链接时就总是需要复制粘贴，非常麻烦。
 
-The situation might change with upcoming SOC 2 compliance for Sourcergaph, which requires using company-provided laptop for accessing sensitive company resources, and need to install some security agents. In that regard, I am probably going to remove all work-related stuff off my personal devices.
+不过情况可能会在不久的未来发生改变。Sourcergaph 即将开始 SOC 2 的审查流程，即要求所有敏感工作都必须在公司设备上完成，并安装指定的安全软件。考虑到这种情况，我应该会将所有工作相关的内容都从我的个人设备上移除。
 
-## Stay cool, stay quiet
+## 安静的美男子
 
-It would be such a waste to not do any serious work on this powerful machine, so I followed [the docs for setting up local development environment for Sourcegraph](https://docs.sourcegraph.com/dev/setup/deprecated_quickstart), and did some extra [M1-specific work](https://docs.sourcegraph.com/dev/setup/how-to/m1_mac_local_dev).
+手持这么强劲的设备却不做任何重量级的工作的话就显得太暴殄天物了，所以我[按照文档搭建了 Sourcegraph 的本地开发环境](https://docs.sourcegraph.com/dev/setup/deprecated_quickstart)，然后补充了一些 [M1 相关的额外步骤](https://docs.sourcegraph.com/dev/setup/how-to/m1_mac_local_dev)。
 
-For well-known reasons, I have to use proxy for accessing almost all sites that are required to complete my work, including any Google services (google.com, GCP), GitHub, Slack and so on. Having a modified system proxy creates some setup problems.
+由于众所周知的原因，我必须使用代理才能访问工作相关的所有站点，包括所有谷歌服务、GitHub、Slack 等等，并且使用代理软件还造成了一点点小问题。
 
-I use [ClashX](https://github.com/yichengchen/clashX) and it does not respect `/etc/hosts` file thus trying to proxy the traffic of `https://sourcegraph.test:3443` which is in fact my local Sourcegraph instance behind the [Caddy web server](https://caddyserver.com/). Luckily, I found [a blog post that shows how to bypass certain domain names for ClashX](http://blog.kelvinsail.com/2020/06/16/ClashX-%E9%85%8D%E7%BD%AE/). Also [change the ports of ClashX](https://github.com/yichengchen/clashX#change-the-ports-of-clashx) so I can access my local Prometheus instance (they happen to use the same port). Lastly, configure proxy for Git, NPM and terminal commands (I still don't understand why terminal commands ignore system proxy and need to be configured separately, although I have been doing this for years).
+我使用的软件是 [ClashX](https://github.com/yichengchen/clashX) 但是它不看 `/etc/hosts` 并会尝试代理到 `https://sourcegraph.test:3443` 的浏览，而后者其实又是我架设在 [Caddy](https://caddyserver.com/) 后的本地 Sourcegraph 实例。不过还好，我找到了一篇[如何让 ClashX 忽视指定域名的博客](http://blog.kelvinsail.com/2020/06/16/ClashX-%E9%85%8D%E7%BD%AE/)。除此之外，我还要[修改 ClashX 的默认端口](https://github.com/yichengchen/clashX#change-the-ports-of-clashx)，因为它和我本地的 Prometheus 实例端口冲突了。最后，还要为 Git、NPM 等等终端命令配置代理（尽管我已经这么做了很多年，但我始终不明白为什么终端命令可以绕过系统代理）。
 
-The macOS Monetary seems working good, nothing tedious found so far, and Apple-made keyboards are always great. The keyboard on this new MacBook Pro makes typing even more enjoyable, the feedback, the sound, and the surface touch.
+新系统 Monetary 目测工作正常，Apple 的新键盘手感也不错，让我更加想要使用它打字。
 
-The 14-inch MacBook stays cool at all time, and haven't heard the CPU fan once yet.
+新款 MacBook 的机身一直保持低温，并且还未曾听到 CPU 风扇启动过。
 
-After two months, I conclude that I can do all of my work with the M1-chip.
+经过两个月的使用，我觉得可以说 M1 芯片的机器完全能够胜任我所需要做的工作。
 
-## Last but not the least
+## 结语
 
-Finally, I have the legitimate reason to buy more seats of software like CleanShot X, TablePlus, etc. that I love.
+我终于有合理的借口为 CleanShot X、TablePlus 等软件购买更多的席位了，哈哈。
 
-One more thing, I really hope the [Universal Control](https://www.apple.com/macos/monterey/#:~:text=to%20work%20using-,Universal%C2%A0Control,-and%20Shortcuts.%20Stay) to be released soon.
+再提一嘴，我希望 [Universal Control](https://www.apple.com/macos/monterey/#:~:text=to%20work%20using-,Universal%C2%A0Control,-and%20Shortcuts.%20Stay) 早日发布！
