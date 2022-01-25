@@ -22,11 +22,11 @@ date: 2020-04-19
 
 ### 我的办公设备
 
-- 💻 MacBook Pro (16-inch, 2019)
+- 💻 MacBook Pro (16-inch, M1 Max)
 - 🖥 LG 27UL850, 27-inch 4K monitor + SkipperTech Dual Display Stand
 - 🎹 Das Keyboard 4C TKL Compact (MX Brown Switch) / Keychron K3 (Gateron Brown Switch)
 - 🖲 Apple Magic Trackpad 2 (Space Gray)
-- 🎧 Bose QC Earbuds
+- 🎧 Apple AirPods Max
 - 🎙 Blue Yeti (Midnight Blue) + Blue Compass
 - 🔆 BenQ ScreenBar Plus
 - 📷 Logitech C1000E BRIO 4K
