@@ -16,7 +16,6 @@ jobs:
         host: ${{ secrets.HOST }}
         username: ${{ secrets.USERNAME }}
         key: ${{ secrets.DEPLOY_KEY }}
-        port: ${{ secrets.PORT }}
         script_stop: true
         script: |
           cd sites/unknwon.cn
