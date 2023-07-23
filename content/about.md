@@ -22,15 +22,16 @@ date: 2023-03-13
 
 ### 我的办公设备
 
-- 💻 MacBook Pro (16-inch, M1 Max)
-- 🖥 LG 27UL850 (27-inch 4K monitor) + Kuycon 5K (27-inch, B model) + SkipperTech Dual Display Stand
-- 🎹 Das Keyboard 4C TKL Compact (MX Brown Switch) / Keychron K3 (Gateron Brown Switch)
-- 🖲 Apple Magic Trackpad 2 (Space Gray)
+- 💻 MacBook Pro (16-inch, M1 Max) / MacBook Pro (14-inch, M1 Pro)
+- 🖥 Apple Studio Display
+- 🎹 Keychron Q1 (Gateron G Pro Brown)
+- 🖲 Logitech MX Ergo
 - 🎧 Apple AirPods Max
 - 🎙 Blue Yeti (Midnight Blue) + Blue Compass
 - 🔆 BenQ ScreenBar Plus
 - 📷 Logitech C1000E BRIO 4K
-- 🔳 IKEA LINNMON (120 cm x 60 cm)
+- 🔳 IKEA IDÅSEN sit/stand desk
+- 🦿 Steelcase Gesture
 
 <br/>
 
