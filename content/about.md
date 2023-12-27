@@ -22,7 +22,7 @@ date: 2023-03-13
 
 ### 我的办公设备
 
-- 💻 MacBook Pro (16-inch, M1 Max) / MacBook Pro (14-inch, M1 Pro)
+- 💻 MacBook Pro (16-inch, M3 Max) / MacBook Pro (14-inch, M1 Pro)
 - 🖥 Apple Studio Display
 - 🎹 Keychron Q1 (Gateron G Pro Brown)
 - 🖲 Logitech MX Ergo
