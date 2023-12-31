@@ -1,7 +1,7 @@
 ---
 title: About me
 categories: ["单页"]
-date: 2023-03-13
+date: 2023-12-31
 ---
 
 欢迎来到无闻的小站！
@@ -23,13 +23,13 @@ date: 2023-03-13
 ### 我的办公设备
 
 - 💻 MacBook Pro (16-inch, M3 Max) / MacBook Pro (14-inch, M1 Pro)
-- 🖥 Apple Studio Display
+- 🖥 LG UltraFine 32-inch x2
 - 🎹 Keychron Q1 (Gateron G Pro Brown)
 - 🖲 Logitech MX Ergo
 - 🎧 Apple AirPods Max
 - 🎙 Blue Yeti (Midnight Blue) + Blue Compass
 - 🔆 BenQ ScreenBar Plus
-- 📷 Logitech C1000E BRIO 4K
+- 📷 iPhone 14 Pro
 - 🔳 IKEA IDÅSEN sit/stand desk
 - 🦿 Steelcase Gesture
 
