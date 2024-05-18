@@ -25,11 +25,11 @@ date: 2023-12-31
 - 💻 MacBook Pro (16-inch, M3 Max) / MacBook Pro (14-inch, M1 Pro)
 - 🖥 LG UltraFine 32-inch x2
 - 🎹 Keychron Q1 (Gateron G Pro Brown)
-- 🖲 Logitech MX Ergo
+- 🖲 Logitech MX Ergo / Logitech G102
 - 🎧 Apple AirPods Max
-- 🎙 Blue Yeti (Midnight Blue) + Blue Compass
-- 🔆 BenQ ScreenBar Plus
-- 📷 iPhone 14 Pro
+- ~~🎙 Blue Yeti (Midnight Blue) + Blue Compass~~
+- ~~🔆 BenQ ScreenBar Plus~~
+- 📷 iPhone 15 Pro
 - 🔳 IKEA IDÅSEN sit/stand desk
 - 🦿 Steelcase Gesture
 
