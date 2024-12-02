@@ -26,7 +26,7 @@ date: 2023-12-31
 - 🖥 LG UltraFine 32-inch x2
 - 🎹 Keychron Q1 (Gateron G Pro Brown)
 - 🖲 Logitech MX Ergo / Logitech G102
-- 🎧 Apple AirPods Max
+- 🎧 Apple AirPods Max / JBL Go + Rode Wireless Go
 - ~~🎙 Blue Yeti (Midnight Blue) + Blue Compass~~
 - ~~🔆 BenQ ScreenBar Plus~~
 - 📷 iPhone 15 Pro
