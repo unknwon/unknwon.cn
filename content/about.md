@@ -6,7 +6,7 @@ date: 2025-10-30
 
 欢迎来到无闻的小站！
 
-我是一名患有编码强迫症晚期的 90 后分布式系统工程师，开源爱好者，目前致力于开发 AI Agent 牛马养殖系统来帮我写代码。
+我是一名患有编码强迫症晚期的软件工程师，深耕于基础设施、安全和开发者工具领域。工作之余，我热衷于写一些专为穷人定制的开源项目。
 
 2011 年起用 Visual Basic 6.0 进入了编程的世界，搞过易语言，写过 C#。2013 年本来想学 PHP 的，结果摔了一跤学了 Go，所以那本 PHP 兄弟连就成了垫屏幕的利器（并于 2019 年搬家的时候捐给了波士顿当地的慈善基金会，我想就算他们看不懂 PHP，拿来学习中文也是一本非常好的教材，附教学光盘）。
 
@@ -22,14 +22,14 @@ date: 2025-10-30
 
 ### 我的办公设备
 
-- 💻 MacBook Pro (16-inch, M3 Max) / MacBook Pro (14-inch, M4 Pro)
-- 🖥 LG UltraFine 32-inch x2
+- 💻 MacBook Pro (16-inch, M3 Max) / MacBook Pro (16-inch, M5 Max)
+- 🖥 Studio Display XDR (landscape + portrait)
 - 🎹 Keychron Q1 (Gateron G Pro Brown)
 - 🖲 Logitech MX Ergo / Logitech G102
 - 🎧 Sony WH-1000XM6
 - ~~🎙 Blue Yeti (Midnight Blue) + Blue Compass~~
 - ~~🔆 BenQ ScreenBar Plus~~
-- 📷 Insta360 Link 2
+- ~~📷 Insta360 Link 2~~
 - 🔳 IKEA IDÅSEN sit/stand desk
 - 🦿 Steelcase Gesture
 
