@@ -1,7 +1,7 @@
 baseURL = "https://unknwon.cn/"
 title = "无闻的小站"
 theme = "LeaveIt"
-languageCode = "zh-CN"
+locale = "zh-CN"
 
 paginate = 12
 

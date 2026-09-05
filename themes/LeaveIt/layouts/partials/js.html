@@ -22,8 +22,4 @@
     <script src="{{ printf "%s%s" $cdn_url $main.RelPermalink }}" async=""></script>
 {{ end }}
 
-{{ if eq ( getenv "HUGO_ENV" ) "production" }}
-  {{ template "_internal/google_analytics_async.html" . }}
-{{ end }}
-
 <script defer data-domain="unknwon.cn" src="https://plausible.io/js/plausible.js"></script>
